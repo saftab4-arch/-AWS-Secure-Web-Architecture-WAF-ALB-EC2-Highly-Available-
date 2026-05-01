@@ -223,29 +223,8 @@ Observed:
 ## 📸 Screenshots
 
 ```
-screenshots/
-├── 01-vpc-created.png
-├── 02-subnets-created.png
-├── 03-subnet-public-ip-enabled.png
-├── 04-internet-gateway-attached.png
-├── 05-route-table.png
-├── 06-subnet-associated.png
-├── 07-ec2-running.png
-├── 08-ec2-server1.png
-├── 09-ec2-server2.png
-├── 10-target-group-targets.png
-├── 11-target-group-healthy.png
-├── 12-alb-created.png
-├── 13-alb-working.png
-├── 14-ec2-sg-locked.png
-├── 15-ec2-direct-blocked.png
-├── 16-waf-overview.png
-├── 17-waf-rules.png
-├── 18-waf-alb-attached.png
-├── 19-waf-dashboard.png
-├── 20-waf-blocked.png
-├── 21-waf-ip-block.png
-├── 22-alb-failover.png
+## 📸 Screenshots Included
+Screenshots are uploaded in the repository root.
 ```
 
 
