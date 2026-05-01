@@ -248,7 +248,14 @@ screenshots/
 ├── 22-alb-failover.png
 ```
 
+
+## 🖼️ Architecture Diagram
+
+<p align="center">
+  <img src="architecture/aws-waf-alb-ec2-architecture.svg" width="900"/>
+</p>
 ---
+
 
 ## 🧠 Key Learnings
 
